@@ -12,7 +12,7 @@ methods of this class for more options.
 ##Instalation
 ```php
     return array(
-        'import => array(
+        'import' => array(
             'ext.maxipago-api.*',
         ),
         'components' => array(
