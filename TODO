@@ -1,0 +1,13 @@
+@TODO:
+   Features
+       - Debit Sale            <-- Important!
+       - Delete CreditCard
+       - Refund                <-- Important!
+       - Reports               <-- Important!
+       - Recurring             <-- Important!
+       - Update Profile
+
+   Structure
+       - Examples
+       - Documentation
+       - Put lib files into lib/ folder
