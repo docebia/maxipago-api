@@ -2,8 +2,9 @@
 /**
  * MaxiPago-API Yii extension.
  *
- * @author Victor Freitas <contato@vfreitas.com>
- * @link soon
+ * @author Victor Freitas < victor@crayonstock.com >
+ * @company CrayonStock < http://crayonstock.com >
+ * @link https://github.com/victorfcm/maxipago-api
  * @package maxipago-api
  *
  * @version 0.1
